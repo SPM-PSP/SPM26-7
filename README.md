@@ -39,7 +39,7 @@
 | 姓名 | 角色 | GitHub |
 | :---: | :---: | :--- |
 | 王佳俊  | 组长 | @MRSALTw |
-| xx | xxxx |  |
+| 谢浩敏  | 组员 | @AdoorMarker |
 | xx | xxxx |  |
 | xx | xxxx |  |
 | xx | xxxx |  |
