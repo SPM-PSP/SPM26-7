@@ -41,7 +41,7 @@
 | 王佳俊  | 组长 | @MRSALTw |
 | 谢浩敏  | 组员 | @AdoorMarker |
 | 邓瑞 | 组员 | @BTFinBreeze |
-| xx | xxxx |  |
+| 郭栋 | 组员 | @GranD-g-o-d |
 | xx | xxxx |  |
 
 ---
