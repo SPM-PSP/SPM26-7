@@ -889,7 +889,7 @@ export default function Dashboard({ params }: { params: Promise<{ locale: string
               </div>
               <div>
                 <h1 className="text-4xl font-bold tracking-tight mb-2">
-                  SnapFit AI
+                  Fitness
                 </h1>
                 <p className="text-muted-foreground text-lg">
                   {t('ui.subtitle')}

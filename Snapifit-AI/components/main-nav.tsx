@@ -62,7 +62,7 @@ export function MainNav() {
               />
             </div>
             <span className="font-bold text-xl bg-gradient-to-r from-green-600 to-green-700 dark:from-green-300 dark:to-green-400 bg-clip-text text-transparent">
-              SnapFit AI
+              Fitness
             </span>
           </Link>
         </div>
